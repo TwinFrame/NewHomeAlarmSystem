@@ -36418,7 +36418,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _object: {fileID: 0}
-  _createEverySeconds: 3
+  _respawnTimeDelay: 3
 --- !u!1 &638319954
 GameObject:
   m_ObjectHideFlags: 0
